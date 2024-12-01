@@ -1,4 +1,7 @@
-# 🌟 Welcome to YoussifShaaban98's GitHub! 🌟
+<h3 align="center">
+  Welcome to Youssif Amr's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 ## 👋 About Me  
 Hi! I'm Youssif Amr, a **fresh graduate** passionate about exploring the world of **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**. I'm on an exciting journey to master the art of building intelligent systems that interact with humans seamlessly.  
