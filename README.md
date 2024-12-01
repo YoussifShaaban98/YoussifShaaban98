@@ -2,7 +2,6 @@
 
 ## 👋 About Me  
 Hi! I'm [Youssif Amr], a **fresh graduate** passionate about exploring the world of **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**. I'm on an exciting journey to master the art of building intelligent systems that interact with humans seamlessly.  
-I'm seeking opportunities to apply my skills in real-world projects and contribute to impactful technologies.
 
 ## 🚀 What I’m Working On  
 - 🌱 **Learning:** Advancing my skills in NLP, machine learning, and the intricacies of LLMs.  
